@@ -1,6 +1,6 @@
 # Hospital-Patient-Data-Analysis
 
-## Project preview
+## Project Preview
 This analysis was conducted to identify common medical conditions, understand patient demographics, and uncover healthcare trends that can support better decision-making, resource allocation, and improved patient care. 
 
 This project analyzed an exclusive dataset containing 40,235 patients, 40,341 doctors, 39,876 hospitals, 55,500 admissions, patient demographics, medical conditions, billing, and test results.  
