@@ -94,7 +94,7 @@ The analysis of hospital admission had a sharp growth from 2019 to 2020 (Covidâ€
 Additionally, the sharp decline observed toward the end of 2024, falling by more than half compared to previous years. 
 
 
-# Recommendations 
+# Recommendation
 
 Based on the analysis of hospital patient data, the following recommendations are proposed to improve hospital operations, patient care, and resource utilization: 
 
