@@ -131,3 +131,6 @@ Given the relatively even distribution of abnormal, normal, and inconclusive res
 ## Capacity Planning for Non-Seasonal Demand 
 Since admissions show no strong seasonal pattern but a general stability over time, hospitals should adopt year-round capacity planning rather than seasonal staffing models. However, the sharp decline in 2024 should be investigated to determine whether it reflects data quality issues or a real operational change.
 
+## preview
+https://github.com/emmanuelayuba246-sudo/Hospital-Patient-Data-Analysis/blob/main/Screenshot%202026-05-25%20132404.png
+> click the link above to see the preview of the final dashboard
